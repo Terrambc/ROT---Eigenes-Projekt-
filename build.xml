@@ -1,0 +1,7 @@
+<project name="MYFIRST" basedir="." default="RUN">
+	<target name="RUN">
+		<echo>
+		Hallo Softwaretechniker!
+		</echo>
+	</target>
+</project>
